@@ -1,0 +1,68 @@
+[13-Mar-2020 15:30:39 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 416
+[13-Mar-2020 15:30:39 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 417
+[13-Mar-2020 15:31:04 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 416
+[13-Mar-2020 15:31:04 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 417
+[13-Mar-2020 15:31:16 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 416
+[13-Mar-2020 15:31:16 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 417
+[13-Mar-2020 15:31:50 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 291
+[13-Mar-2020 15:31:50 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 292
+[13-Mar-2020 15:31:50 Asia/Kolkata] ERROR: Invalid response code received from server (530)
+[13-Mar-2020 15:31:50 Asia/Kolkata] ERROR: Invalid response code received from server (530)
+[13-Mar-2020 15:33:56 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 291
+[13-Mar-2020 15:33:56 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 292
+[13-Mar-2020 15:33:56 Asia/Kolkata] ERROR: SMTP server does not support authentication ()
+[13-Mar-2020 15:33:56 Asia/Kolkata] ERROR: Invalid response code received from server (530)
+[13-Mar-2020 15:34:15 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 416
+[13-Mar-2020 15:34:15 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 417
+[13-Mar-2020 15:37:16 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 416
+[13-Mar-2020 15:37:16 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 417
+[13-Mar-2020 15:38:58 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 416
+[13-Mar-2020 15:38:58 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 417
+[13-Mar-2020 15:39:13 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 416
+[13-Mar-2020 15:39:13 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 417
+[13-Mar-2020 15:41:05 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 291
+[13-Mar-2020 15:41:05 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 292
+[13-Mar-2020 15:41:05 Asia/Kolkata] ERROR: SMTP server does not support authentication ()
+[13-Mar-2020 15:41:05 Asia/Kolkata] ERROR: Invalid response code received from server (530)
+[13-Mar-2020 15:45:25 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 416
+[13-Mar-2020 15:45:25 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 417
+[13-Mar-2020 15:46:17 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 291
+[13-Mar-2020 15:46:17 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 292
+[13-Mar-2020 15:46:17 Asia/Kolkata] ERROR: SMTP server does not support authentication ()
+[13-Mar-2020 15:46:17 Asia/Kolkata] ERROR: Invalid response code received from server (530)
+[13-Mar-2020 15:47:08 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 291
+[13-Mar-2020 15:47:08 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 292
+[13-Mar-2020 15:47:08 Asia/Kolkata] ERROR: SMTP server does not support authentication ()
+[13-Mar-2020 15:47:08 Asia/Kolkata] ERROR: Invalid response code received from server (530)
+[13-Mar-2020 15:49:55 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 416
+[13-Mar-2020 15:49:55 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 417
+[13-Mar-2020 15:50:08 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 416
+[13-Mar-2020 15:50:08 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 417
+[13-Mar-2020 15:50:38 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 291
+[13-Mar-2020 15:50:38 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 292
+[13-Mar-2020 15:50:38 Asia/Kolkata] ERROR: SMTP server does not support authentication ()
+[13-Mar-2020 15:50:52 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 291
+[13-Mar-2020 15:50:52 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 292
+[13-Mar-2020 15:50:52 Asia/Kolkata] ERROR: SMTP server does not support authentication ()
+[13-Mar-2020 15:51:59 +0530]: <8jkt69c1> IMAP Error: Login failed for chevy.lin@mundi-tv.tk from 111.250.7.191. Could not connect to mundi-tv.tk:993: php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /var/www/webmail/program/lib/Roundcube/rcube_imap.php on line 196 (POST /?_task=login&_action=login)
+[13-Mar-2020 15:52:13 +0530]: <8jkt69c1> IMAP Error: Login failed for chevy.lin@mundi-tv.tk from 111.250.7.191. Could not connect to mundi-tv.tk:993: php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /var/www/webmail/program/lib/Roundcube/rcube_imap.php on line 196 (POST /?_task=login&_action=login)
+[13-Mar-2020 15:53:21 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 291
+[13-Mar-2020 15:53:21 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 292
+[13-Mar-2020 15:53:22 Asia/Kolkata] ERROR: SMTP server does not support authentication ()
+[13-Mar-2020 15:53:29 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 291
+[13-Mar-2020 15:53:29 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 292
+[13-Mar-2020 15:53:29 Asia/Kolkata] ERROR: SMTP server does not support authentication ()
+[13-Mar-2020 15:53:46 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 416
+[13-Mar-2020 15:53:46 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 417
+[13-Mar-2020 15:56:43 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 291
+[13-Mar-2020 15:56:43 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 292
+[13-Mar-2020 15:56:43 Asia/Kolkata] ERROR: SMTP server does not support authentication ()
+[13-Mar-2020 15:57:08 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 291
+[13-Mar-2020 15:57:08 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 292
+[13-Mar-2020 15:57:08 Asia/Kolkata] ERROR: SMTP server does not support authentication ()
+[13-Mar-2020 15:58:33 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 416
+[13-Mar-2020 15:58:33 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 417
+[13-Mar-2020 16:02:02 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 291
+[13-Mar-2020 16:02:02 Asia/Kolkata] PHP Deprecated:  idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated in /var/www/webmail/installer/test.php on line 292
+[13-Mar-2020 16:03:10 +0530]: <fajjdk1t> IMAP Error: Login failed for chevylin from 111.250.7.191. AUTHENTICATE PLAIN: Authentication failed. in /var/www/webmail/program/lib/Roundcube/rcube_imap.php on line 196 (POST /?_task=login&_action=login)
+[13-Mar-2020 16:07:02 Asia/Kolkata] ERROR: Invalid response code received from server (-1)
