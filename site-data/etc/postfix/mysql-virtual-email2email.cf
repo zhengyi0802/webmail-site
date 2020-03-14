@@ -2,4 +2,4 @@ user = mailuser
 password = mail1234
 hosts = 127.0.0.1
 dbname = mailserver
-query = SELECT email FROM virtual_users WHERE email='%s'
+query = SELECT email FROM virtual_users WHERE email='%s' AND active=true
