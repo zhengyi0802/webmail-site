@@ -93,10 +93,18 @@ virtual_transport = lmtp:unix:private/dovecot-lmtp
 #virtual_transport = dovecot
 
 # Virtual domains, users, and aliases
-virtual_mailbox_domains = mysql:/etc/postfix/mysql-virtual-mailbox-domains.cf
-virtual_mailbox_maps = mysql:/etc/postfix/mysql-virtual-mailbox-maps.cf
-virtual_alias_maps = mysql:/etc/postfix/mysql-virtual-alias-maps.cf,
-        mysql:/etc/postfix/mysql-virtual-email2email.cf
+#virtual_mailbox_domains = mysql:/etc/postfix/mysql-virtual-mailbox-domains.cf
+#virtual_mailbox_maps = mysql:/etc/postfix/mysql-virtual-mailbox-maps.cf
+#virtual_alias_maps = mysql:/etc/postfix/mysql-virtual-alias-maps.cf,
+#        mysql:/etc/postfix/mysql-virtual-email2email.cf
+virtual_mailbox_domains = proxy:mysql:/etc/postfix/sql/mysql_virtual_domains_maps.cf
+virtual_mailbox_maps =
+   proxy:mysql:/etc/postfix/sql/mysql_virtual_mailbox_maps.cf,
+   proxy:mysql:/etc/postfix/sql/mysql_virtual_alias_domain_mailbox_maps.cf
+virtual_alias_maps =
+   proxy:mysql:/etc/postfix/sql/mysql_virtual_alias_maps.cf,
+   proxy:mysql:/etc/postfix/sql/mysql_virtual_alias_domain_maps.cf,
+   proxy:mysql:/etc/postfix/sql/mysql_virtual_alias_domain_catchall_maps.cf
 
 # Even more Restrictions and MTA params
 disable_vrfy_command = yes
