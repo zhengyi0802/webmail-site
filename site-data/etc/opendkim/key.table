@@ -1,0 +1,4 @@
+default._domainkey.mundi-tv.tk     mundi-tv.tk:default:/etc/opendkim/keys/mundi-tv.tk/default.private
+default._domainkey.mundi-tech.tk   mundi-tech.tk:default:/etc/opendkim/keys/mundi-tech.tk/default.private
+default._domainkey.mundi.com.tw    mundi.com.tw:default:/etc/openkim/keys/mundi.com.tw/default.private
+

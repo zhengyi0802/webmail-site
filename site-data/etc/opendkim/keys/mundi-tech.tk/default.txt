@@ -1,0 +1,3 @@
+default._domainkey	IN	TXT	( "v=DKIM1; h=sha256; k=rsa; "
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7I7XsItzW6SW+OCK9X2/WtsnNVOMk8T+RGL36uUwllIkAdhWzpV8ewDkPP8TOj3sErNZgq5ie5BsR6YRwUxxyelKF3/djXev7V8Bsx2m1NyUiPWcmRslLUpZHjiH13dTUXh4n232Nbzr/nz4NtTk13WUPBGS3TynmmiQocx2yM0BJaS7jIr3AuZr6BRnN4fqEbph2XPHVWSoOp"
+	  "Lff7VpImLJfsViexoUwJiKxqqWBwXOnlqIcWfwqkRJ3NbiNGz+MNcWBiFq3u5gh7qQ8JT3nGT0W+18yUWtBHMIIOv1uq+pMlmtJxKRYX2c7ontekPZLcYTnlhD/NN4FGFdljv/AwIDAQAB" )  ; ----- DKIM key default for mundi-tech.tk

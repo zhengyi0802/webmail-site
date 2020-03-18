@@ -1,0 +1,3 @@
+default._domainkey	IN	TXT	( "v=DKIM1; h=sha256; k=rsa; "
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtitnCUIdnFss3LpzxEgavWJowS0dmm1t7yv2j06Fr7wpoP5pGkPExckOvr8LkuqSlDSNCBqZHjiZOeNgY7lhi/4loUy+aFizs7x/75jkYOA4/gTj2UMpsBdklyNsLhCqW7UKYdAnvpifdZ40OuxB+WJaT76f4J7dYopaCbglLHlYdpMQeLVXLIGPzCODZCSi2DU4LAIfNVX8Vh"
+	  "t/IWCU/5/39uFTIREhKxSGMNg9Uxu17xX9e3rgY6wKYRUI33HAkxetZpZGrye8ZyDvs4JQe37gfir3un5JIo61RvXtmAi3NKJWRRReCocMBEBhY1Yo6LanEsCaCaaVJH8MlkMaTwIDAQAB" )  ; ----- DKIM key default for mundi.com.tw
