@@ -48,7 +48,8 @@ smtpd_recipient_restrictions =
         reject_non_fqdn_recipient,
         reject_unknown_recipient_domain,
         reject_unlisted_recipient,
-        reject_unauth_destination
+        reject_unauth_destination,
+        check_policy_service unix:private/policyd-spf
 smtpd_sender_restrictions =
         permit_mynetworks,
         permit_sasl_authenticated,
@@ -134,3 +135,11 @@ unverified_sender_reject_code = 550
 
 queue_directory = /var/spool/postfix
 
+
+# Milter configuration
+milter_default_action = accept
+milter_protocol = 6
+smtpd_milters = local:opendkim/opendkim.sock
+non_smtpd_milters = $smtpd_milters
+
+policyd-spf_time_limit = 3600
